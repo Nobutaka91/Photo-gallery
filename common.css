@@ -1,0 +1,21 @@
+body {
+    background-image: #555;
+    text-align: center;
+    color: black;
+}
+
+main {
+    padding-top: 30px;
+}
+
+#main_image img{
+    width: 600px;
+    border: 5px solid black;
+
+}
+
+#thumbnails img{
+    width: 80px;
+    margin: 10px;
+    border: 1px solid black;
+}
